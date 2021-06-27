@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @HiemIT
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying at ftp. polytechnic high school
+- 💞️ I'm pursuing javascript language
 - 📫 How to reach me ...
   My personal page on facebook:
            https://www.facebook.com/kbuor.yhiem16/
-           My email address :
+  My email address :
           yhiemk0@gmail.com
 
   🛫 I'm glad you visited my page 😇🤗, Have a nice day! ️❣️
