@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HiemIT
 - 👀 I’m interested in ...
-- 🌱 I’m currently studying at ftp. polytechnic high school
+- 🌱 I’m currently studying at FPT Polytechnic high school
 - 💞️ I'm pursuing javascript language
 - 📫 How to reach me ...
   My personal page on facebook:
